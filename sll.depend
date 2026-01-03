@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1767444166 source:c:\users\zillan\downloads\hamam\sll\main.cpp
+	"sll.h"
+
+1767443748 c:\users\zillan\downloads\hamam\sll\sll.h
+	<iostream>
+
+1767443771 source:c:\users\zillan\downloads\hamam\sll\sll.cpp
+	"sll.h"
+
